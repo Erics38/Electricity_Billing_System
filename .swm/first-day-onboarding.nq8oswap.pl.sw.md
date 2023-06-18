@@ -1,14 +1,24 @@
 ---
 id: nq8oswap
-title: Test playlists
+title: First Day Onboarding
 file_version: 1.1.2
 app_version: 1.10.3
 ---
 
 <!-- Intro - Do not remove this comment -->
-High level
+Hello World
 
 <br/>
+
+<!-- Steps - Do not remove this comment -->
+1. [Rock and Role!   ](https://www.youtube.com/results?search_query=thumbs+up+everybody+for+rock+and+roll)
+2. [Figure it Out](figure-it-out.g44st7mb.sw.md)
+
+
+<br/>
+
+<!-- Summary - Do not remove this comment -->
+Good Luck
 
 <br/>
 
